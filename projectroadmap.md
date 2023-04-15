@@ -1,0 +1,6 @@
+- [x] Find similar coding repositiories (Event organizing, festival/music organizing, etc.)
+- [ ] Figure out format you want
+- [ ] Consider licensing options
+- [ ] Write code based on own experiences
+- [ ] Switch code to user input's experiences
+- [ ] Double check code is running
