@@ -12,3 +12,4 @@ elif service == "c":
     print ("Perfect! Which musician will you be seeing?")
     input ("Enter musician")
     print ("Musician and date is now logged for you, thank you!")
+else: print  ("Sorry, please try again!")
