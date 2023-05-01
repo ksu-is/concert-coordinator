@@ -6,3 +6,9 @@ if service == "m":
     print ("Perfect! What date are you seeing the musician?")
     input ("Enter date")
     print ("Musician and date is now logged for you, thank you!")
+elif service == "c":
+    print ("Please enter the date you will be attending so we can log it!")
+    date = input ("Date of concert:")
+    print ("Perfect! Which musician will you be seeing?")
+    input ("Enter musician")
+    print ("Musician and date is now logged for you, thank you!")
