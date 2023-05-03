@@ -3,4 +3,4 @@
 - [x] Consider licensing options DONE (none needed for this project)
 - [x] Write code based on own experiences
 - [x] Switch code to user input's experiences
-- [ ] Double check code is running
+- [x] Double check code is running
