@@ -1,2 +1,2 @@
 # concert-coordinator
-Concert Coordinator allows users to plan our their past upcoming music experiences. 
+Concert Coordinator allows users to plan out their upcoming music experiences by entering the dates and musicians they will be seeing. 
